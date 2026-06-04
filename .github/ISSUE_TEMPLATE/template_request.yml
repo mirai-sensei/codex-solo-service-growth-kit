@@ -1,0 +1,27 @@
+name: Template request
+description: Suggest a new reusable operating template.
+title: "[Template]: "
+labels: ["template"]
+body:
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Workflow
+      description: What repeated workflow should this template support?
+    validations:
+      required: true
+  - type: textarea
+    id: users
+    attributes:
+      label: Users
+      description: Who would use it?
+    validations:
+      required: true
+  - type: textarea
+    id: sections
+    attributes:
+      label: Suggested sections
+      description: What fields or sections should the template include?
+    validations:
+      required: false
+
