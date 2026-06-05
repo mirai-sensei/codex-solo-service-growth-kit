@@ -67,6 +67,8 @@ The core loop is simple:
 4. Use `templates/weekly-review.md` to decide the next bottleneck.
 5. Ask Codex to make one small improvement at a time using `templates/codex-maintenance-prompt.md`.
 
+For concrete scenarios, see [docs/use-cases.md](docs/use-cases.md).
+
 ## Example Codex Prompt
 
 ```text
@@ -109,4 +111,3 @@ This project is useful as a small OSS maintainer workflow because the same templ
 ## License
 
 MIT. See [LICENSE](LICENSE).
-
