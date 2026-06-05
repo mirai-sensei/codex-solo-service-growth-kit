@@ -4,6 +4,18 @@ Reusable operating templates for solo service businesses that want to use Codex 
 
 This project is intentionally lightweight. It is a public, vendor-neutral template kit for coaches, consultants, creators, local service providers, educators, and spiritual/wellness practitioners who need repeatable workflows more than complex software.
 
+## What Problem It Solves
+
+Solo service businesses often run on scattered notes, manual checklists, and one-off prompts. That makes growth work hard to repeat. This kit turns common operating tasks into reusable Markdown templates that Codex can read, review, and improve safely.
+
+The core loop is simple:
+
+1. Map the free entry point and paid offer path.
+2. Track a few daily acquisition and conversion numbers.
+3. Find the weakest step in the funnel.
+4. Make one small improvement.
+5. Review results weekly and repeat.
+
 ## Who This Is For
 
 - Solo founders and small teams selling appointments, consultations, courses, memberships, or digital offers.
@@ -24,24 +36,27 @@ This project is intentionally lightweight. It is a public, vendor-neutral templa
 
 ```text
 .
-├─ README.md
-├─ LICENSE
-├─ CONTRIBUTING.md
-├─ .gitignore
-├─ docs/
-│  └─ codex-for-oss-application-notes.md
-├─ examples/
-│  ├─ sample-funnel-map.md
-│  └─ sample-weekly-review.md
-├─ scripts/
-│  └─ validate_templates.py
-└─ templates/
-   ├─ codex-maintenance-prompt.md
-   ├─ daily-kpi.md
-   ├─ funnel-map.md
-   ├─ offer-positioning.md
-   ├─ short-video-brief.md
-   └─ weekly-review.md
+|-- README.md
+|-- LICENSE
+|-- CONTRIBUTING.md
+|-- SECURITY.md
+|-- CHANGELOG.md
+|-- ROADMAP.md
+|-- .gitignore
+|-- docs/
+|   `-- codex-for-oss-application-notes.md
+|-- examples/
+|   |-- sample-funnel-map.md
+|   `-- sample-weekly-review.md
+|-- scripts/
+|   `-- validate_templates.py
+`-- templates/
+    |-- codex-maintenance-prompt.md
+    |-- daily-kpi.md
+    |-- funnel-map.md
+    |-- offer-positioning.md
+    |-- short-video-brief.md
+    `-- weekly-review.md
 ```
 
 ## Quick Start
@@ -69,9 +84,20 @@ The validation script checks that every template keeps the expected heading stru
 python scripts/validate_templates.py
 ```
 
+## Maintenance Workflow
+
+This repository is maintained as a practical template library rather than a large application. Good maintenance work includes:
+
+- Improving example clarity.
+- Adding small reusable templates.
+- Tightening safety language.
+- Keeping template headings consistent.
+- Turning repeated Codex workflows into documented prompts.
+- Reviewing changes for accidental secrets or private business data.
+
 ## Open Source Fit
 
-This project is useful as a small OSS maintainer workflow because the same templates can be reused across many service-business repositories. Codex can help maintain it by reviewing pull requests, improving examples, checking template completeness, and generating issue summaries.
+This project is useful as a small OSS maintainer workflow because the same templates can be reused across many service-business repositories. Codex can help maintain it by reviewing pull requests, improving examples, checking template completeness, generating issue summaries, and creating release notes.
 
 ## Safety Principles
 
