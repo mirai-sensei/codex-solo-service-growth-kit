@@ -68,6 +68,7 @@ The core loop is simple:
 5. Ask Codex to make one small improvement at a time using `templates/codex-maintenance-prompt.md`.
 
 For concrete scenarios, see [docs/use-cases.md](docs/use-cases.md).
+For a repeatable weekly operating rhythm, see [docs/weekly-maintenance-loop.md](docs/weekly-maintenance-loop.md).
 
 ## Try It in 10 Minutes
 
