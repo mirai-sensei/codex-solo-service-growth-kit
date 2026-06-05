@@ -10,6 +10,7 @@ Useful files:
 
 - `templates/funnel-map.md`
 - `templates/daily-kpi.md`
+- `examples/sample-daily-kpi.md`
 - `templates/codex-maintenance-prompt.md`
 
 ## 2. Weekly Growth Review
@@ -20,6 +21,7 @@ Useful files:
 
 - `templates/weekly-review.md`
 - `examples/sample-weekly-review.md`
+- `examples/sample-daily-kpi.md`
 
 ## 3. Short-Form Content Planning
 

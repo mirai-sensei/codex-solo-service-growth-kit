@@ -5,7 +5,7 @@ This project is intentionally small. The goal is to improve the usefulness of th
 ## Near Term
 
 - Add more filled-in examples for free-to-paid funnels.
-- Improve the daily KPI template with clearer definitions.
+- Improve the daily KPI template with clearer definitions and examples.
 - Add a release checklist for small service-business repositories.
 - Add issue templates for requesting new operating templates.
 

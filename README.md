@@ -69,10 +69,22 @@ The core loop is simple:
 
 For concrete scenarios, see [docs/use-cases.md](docs/use-cases.md).
 
+## Try It in 10 Minutes
+
+Use this flow when you want to test the kit before adapting it to a real business:
+
+1. Open `examples/sample-funnel-map.md` and identify the free entry point.
+2. Open `examples/sample-daily-kpi.md` and check where the funnel loses people.
+3. Paste both files into Codex with the prompt below.
+4. Ask for one improvement only.
+5. Record the decision in `templates/weekly-review.md`.
+
+This keeps the first run small, concrete, and easy to review.
+
 ## Example Codex Prompt
 
 ```text
-Read templates/funnel-map.md and templates/daily-kpi.md.
+Read examples/sample-funnel-map.md and examples/sample-daily-kpi.md.
 Find the single weakest conversion step.
 Suggest one low-risk improvement that does not change production settings, payments, customer data, or prices.
 Return the finding, the reasoning, and the exact file or copy change to consider.

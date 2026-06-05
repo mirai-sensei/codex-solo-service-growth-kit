@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2026-06-06
+
+- Added a 10-minute trial flow to the README.
+- Added a filled-in sample daily KPI example for free-to-paid funnel review.
+- Linked the sample KPI from the use case documentation.
+
 ## 2026-06-05
 
 - Clarified the project purpose for solo service business operators.
