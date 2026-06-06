@@ -16,6 +16,7 @@ Useful files:
 ## 2. Weekly Growth Review
 
 At the end of each week, a maintainer can fill in `templates/weekly-review.md` and ask Codex to identify the most important bottleneck.
+The weekly decision rule keeps the output narrow: one weak step, one reviewable improvement, one metric to watch next.
 
 Useful files:
 

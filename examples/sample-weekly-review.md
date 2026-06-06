@@ -28,6 +28,13 @@ The weakest step this week was free completion.
 
 Evidence: Link clicks increased, but completions decreased.
 
+## Decision Rule Applied
+
+- Clearest drop-off: free completion rate.
+- Reviewable in under 30 minutes: rewrite one form intro paragraph.
+- Avoided: price changes, payment settings, production secrets, and private customer data.
+- Number to watch next week: free completions from the same link click volume.
+
 ## Decision
 
 Next week we will reduce free form friction and clarify the result promise.

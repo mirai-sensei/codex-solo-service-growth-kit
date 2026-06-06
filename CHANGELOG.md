@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## 2026-06-06
 
+- Added the weekly decision rule to the sample weekly review and use case notes.
 - Updated the README repository tree and added a practical starter path.
 - Added a README weekly decision rule for choosing small, reviewable improvements.
 - Added a 10-minute trial flow to the README.
