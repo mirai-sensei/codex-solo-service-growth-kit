@@ -44,8 +44,14 @@ The core loop is simple:
 |-- ROADMAP.md
 |-- .gitignore
 |-- docs/
-|   `-- codex-for-oss-application-notes.md
+|   |-- application-form-draft-ja.md
+|   |-- codex-for-oss-application-notes.md
+|   |-- public-repo-setup-ja.md
+|   |-- release-checklist.md
+|   |-- use-cases.md
+|   `-- weekly-maintenance-loop.md
 |-- examples/
+|   |-- sample-daily-kpi.md
 |   |-- sample-funnel-map.md
 |   `-- sample-weekly-review.md
 |-- scripts/
@@ -69,6 +75,16 @@ The core loop is simple:
 
 For concrete scenarios, see [docs/use-cases.md](docs/use-cases.md).
 For a repeatable weekly operating rhythm, see [docs/weekly-maintenance-loop.md](docs/weekly-maintenance-loop.md).
+
+## Practical Starter Path
+
+If you are trying the kit for the first time, start with these three files:
+
+- `examples/sample-funnel-map.md` to see how a free-to-paid path is described.
+- `examples/sample-daily-kpi.md` to see the minimum useful numbers.
+- `examples/sample-weekly-review.md` to see how one next improvement is selected.
+
+After that, copy the matching files from `templates/` and adapt them to your own project.
 
 ## Weekly Decision Rule
 
