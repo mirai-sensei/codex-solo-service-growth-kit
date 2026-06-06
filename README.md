@@ -70,6 +70,17 @@ The core loop is simple:
 For concrete scenarios, see [docs/use-cases.md](docs/use-cases.md).
 For a repeatable weekly operating rhythm, see [docs/weekly-maintenance-loop.md](docs/weekly-maintenance-loop.md).
 
+## Weekly Decision Rule
+
+At the end of each week, choose the next task with this rule:
+
+1. Pick the funnel step with the clearest drop-off.
+2. Choose one improvement that can be reviewed in under 30 minutes.
+3. Avoid changes to prices, payment settings, production secrets, or private customer data.
+4. Write down what changed and what number should move next week.
+
+This keeps the kit focused on steady compounding improvements instead of broad, hard-to-review rewrites.
+
 ## Try It in 10 Minutes
 
 Use this flow when you want to test the kit before adapting it to a real business:
