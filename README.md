@@ -75,6 +75,7 @@ The core loop is simple:
 
 For concrete scenarios, see [docs/use-cases.md](docs/use-cases.md).
 For a repeatable weekly operating rhythm, see [docs/weekly-maintenance-loop.md](docs/weekly-maintenance-loop.md).
+For public sharing copy, see [docs/share-post-drafts-ja.md](docs/share-post-drafts-ja.md).
 
 ## Practical Starter Path
 
