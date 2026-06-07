@@ -43,3 +43,28 @@ Useful files:
 - `docs/release-checklist.md`
 - `SECURITY.md`
 
+## 5. First Offer Audit for a New Service
+
+When a new solo service project is still small, the operator can use this kit before building more software. The first audit checks whether the free entry point, follow-up message, and first paid offer are clear enough to test.
+
+Useful files:
+
+- `templates/offer-positioning.md`
+- `templates/funnel-map.md`
+- `templates/weekly-review.md`
+
+Suggested Codex task:
+
+```text
+Read templates/offer-positioning.md and templates/funnel-map.md.
+Identify the single place where a new visitor is most likely to hesitate.
+Suggest one copy or structure improvement that can be reviewed in under 30 minutes.
+Do not suggest price changes, payment changes, production settings, or private data collection.
+```
+
+Expected output:
+
+- One bottleneck.
+- One low-risk improvement.
+- One metric to watch next week.
+
