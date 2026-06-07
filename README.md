@@ -110,6 +110,18 @@ Use this flow when you want to test the kit before adapting it to a real busines
 
 This keeps the first run small, concrete, and easy to review.
 
+## First 30-Minute Review
+
+Use this checklist when you want to apply the kit to a real project for the first time:
+
+1. Spend 5 minutes copying `templates/funnel-map.md` and naming the main free entry point.
+2. Spend 5 minutes copying `templates/daily-kpi.md` and filling only the numbers you already know.
+3. Spend 10 minutes comparing the free entry point, the first paid offer, and the follow-up path.
+4. Spend 5 minutes writing the single weakest step in `templates/weekly-review.md`.
+5. Spend 5 minutes asking Codex for one small, reversible improvement.
+
+Do not start with a full redesign. The first useful result is a clear bottleneck and one safe next action.
+
 ## Example Codex Prompt
 
 ```text
