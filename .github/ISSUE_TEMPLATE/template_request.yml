@@ -18,10 +18,24 @@ body:
     validations:
       required: true
   - type: textarea
+    id: current_workaround
+    attributes:
+      label: Current workaround
+      description: How are people handling this workflow today?
+    validations:
+      required: false
+  - type: textarea
     id: sections
     attributes:
       label: Suggested sections
       description: What fields or sections should the template include?
+    validations:
+      required: false
+  - type: textarea
+    id: safety_boundaries
+    attributes:
+      label: Safety boundaries
+      description: What data, settings, or actions should this template avoid?
     validations:
       required: false
 
