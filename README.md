@@ -77,6 +77,7 @@ The core loop is simple:
 
 For concrete scenarios, see [docs/use-cases.md](docs/use-cases.md).
 For a guided first pass, see [docs/getting-started.md](docs/getting-started.md).
+Try the completed first-run example in [examples/sample-first-run.md](examples/sample-first-run.md).
 For a repeatable weekly operating rhythm, see [docs/weekly-maintenance-loop.md](docs/weekly-maintenance-loop.md).
 For public sharing copy, see [docs/share-post-drafts-ja.md](docs/share-post-drafts-ja.md).
 
