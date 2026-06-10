@@ -46,8 +46,10 @@ The core loop is simple:
 |-- docs/
 |   |-- application-form-draft-ja.md
 |   |-- codex-for-oss-application-notes.md
+|   |-- getting-started.md
 |   |-- public-repo-setup-ja.md
 |   |-- release-checklist.md
+|   |-- share-post-drafts-ja.md
 |   |-- use-cases.md
 |   `-- weekly-maintenance-loop.md
 |-- examples/
@@ -74,6 +76,7 @@ The core loop is simple:
 5. Ask Codex to make one small improvement at a time using `templates/codex-maintenance-prompt.md`.
 
 For concrete scenarios, see [docs/use-cases.md](docs/use-cases.md).
+For a guided first pass, see [docs/getting-started.md](docs/getting-started.md).
 For a repeatable weekly operating rhythm, see [docs/weekly-maintenance-loop.md](docs/weekly-maintenance-loop.md).
 For public sharing copy, see [docs/share-post-drafts-ja.md](docs/share-post-drafts-ja.md).
 
